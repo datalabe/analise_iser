@@ -1,6 +1,8 @@
 <h1 align= "center">Projeto ISER</h1>
 
-<p><h1 align= "center"> Como e onde podemos ter acesso aos dados sobre Intolerância Religiosa ?</h1></p>
+<p align= "center"><img src = https://img.shields.io/badge/Python-100%25-lightgrey</img><img src = https://img.shields.io/badge/license-MIT-green</img></p>
+
+<p><h2 align= "center"> Como e onde podemos ter acesso aos dados sobre Intolerância Religiosa ?</h2></p>
 
 <p align= "justify">O data_labe em parceria com o <a href = https://www.iser.org.br>ISER</a> procuraram dados de intolerância religiosa e não encontraram. Então decidiram utilizar a Lei de Acesso à Informação (LAI), a <a href = https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm>Lei Federal n° 12.527/2011</a>, regulamenta o direito à informação garantido pela Constituição Federal brasileira em seu artigo quinto. Para saber mais como a LAI funciona, como fazer solicitação e o que seria informação pública acesse o artigo da Escola de Dados, <a href = https://escoladedados.org/tutoriais/solicitando-dados-via-lei-de-acesso-a-informacao/>aqui</a>, que irá conseguir tirar todas as dúvidas que surgirem.</p>
 
