@@ -17,10 +17,12 @@
 
 <p align= "justify"><b>Neste repositório você encontra:</b></p>
 <p>
+<li><a href= https://mega.nz/folder/7ZI1HaAa#bkDnpNb0PZcDZTJ8B1itkQ>Dados coletados atrav</li>
 <li>Base de dados transformada </li>
 <li>Jupyter Notebook com a limpeza do dados, as análises e comentários</li>
 <li>Gráficos</li>
 <li>Relatório geral da análise</li>
+
 </p>
 
 <p align= "justify"><b>Analistas de Dados:</b></p>
@@ -34,3 +36,5 @@
 <p align= "justify">Ao compartilhar este projeto cite os desenvolvedores!
 Os dados e scripts podem ser usados e melhorados por qualquer pessoa! Licença MIT
 Gostou desse projeto? Acesse o site <a href = https://datalabe.org>data_labe</a> para ver outros projetos.</p>
+
+https://mega.nz/folder/7ZI1HaAa#bkDnpNb0PZcDZTJ8B1itkQ
